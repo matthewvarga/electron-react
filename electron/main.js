@@ -10,7 +10,6 @@ try {
 } catch {}
 
 function createWindow() {
-  // Create the browser window.
   const win = new BrowserWindow({
     width: 800,
     height: 600,
@@ -25,7 +24,6 @@ function createWindow() {
       ? `file://${path.join(__dirname, './dist/index.html')}`
       : `file://${path.join(__dirname, '../app/dist/index.html')}`
   );
-  // Open the DevTools.
   if (isDev) {
     win.webContents.openDevTools();
   }
