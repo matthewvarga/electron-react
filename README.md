@@ -24,3 +24,10 @@ To build a production ready app, simply run the following:
 
 This will output the appliation under the builds folder within the application root directory.
 
+## Example
+
+Below is what you can expect to see after running the steps under [getting started](#getting-started).
+
+![image](docs/1-compressed.png)
+
+![image](docs/2-compressed.png)
