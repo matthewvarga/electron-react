@@ -28,6 +28,6 @@ This will output the appliation under the builds folder within the application r
 
 Below is what you can expect to see after running the steps under [getting started](#getting-started).
 
-![image](docs/1-compressed.png)
+![image](docs/1.png)
 
-![image](docs/2-compressed.png)
+![image](docs/2.png)
