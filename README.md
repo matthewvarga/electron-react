@@ -24,6 +24,8 @@ To build a production ready app, simply run the following:
 
 This will output the appliation under the builds folder within the application root directory.
 
+> Note: this requires having first ran `npm install` and `npm run init` at least once prior.
+
 ## Example
 
 Below is what you can expect to see after running the steps under [getting started](#getting-started).
