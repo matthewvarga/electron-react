@@ -33,3 +33,11 @@ Below is what you can expect to see after running the steps under [getting start
 ![image](docs/1.png)
 
 ![image](docs/2.png)
+
+## Versions
+
+The most recent Electron & React releases this has been confirmed to work with:
+
+Node: 19.5.0\
+Electron: 22.2.0\
+React: 18.2.0
