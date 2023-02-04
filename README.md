@@ -14,7 +14,7 @@ The above steps install both the electron and react dependencies, creates an ini
 
 ### Installing Dependencies
 
-When installing dependencies, be sure to first change into the respective folder (electron or react). Then, install as normal though npm.
+When installing additional dependencies, be sure to first change into the respective folder (electron or react). Then, install as normal though npm.
 
 ## Building
 
